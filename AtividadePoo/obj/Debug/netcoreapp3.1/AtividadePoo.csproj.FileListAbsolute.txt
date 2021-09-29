@@ -1,0 +1,14 @@
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.exe
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.deps.json
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.runtimeconfig.json
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.runtimeconfig.dev.json
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.dll
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\bin\Debug\netcoreapp3.1\AtividadePoo.pdb
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.csproj.AssemblyReference.cache
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.AssemblyInfoInputs.cache
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.AssemblyInfo.cs
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.csproj.CoreCompileInputs.cache
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.dll
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.pdb
+C:\Users\Alezin\source\repos\AtividadePoo\AtividadePoo\obj\Debug\netcoreapp3.1\AtividadePoo.genruntimeconfig.cache
